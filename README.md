@@ -2,7 +2,7 @@
 
 **Goal**
 
-To examine sales order data from a big-box store and develop conclusions based on various factors such as item geographical location and customer loyalty.
+To examine sales order data from a big-box store and analyze factors which affect its overall profit.
 
 **Analysis Process**
 
@@ -12,13 +12,15 @@ To examine sales order data from a big-box store and develop conclusions based o
   
 **About the Data**
 
-This dataset was taken from Kaggle.com: https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales/data
+This dataset was taken from www.Kaggle.com.
+
+URL: https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales/data
 
 It contains 9994 rows of sales transactions between **2011** and **2014**.
 
 **Annual Profit**
 
--	The store experienced increased growth in each year.
+-	The store experienced increased significant growth each year.
 
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/fdddf457-a777-433b-bed5-8b7bbc2b1148)
  
@@ -81,8 +83,8 @@ It contains 9994 rows of sales transactions between **2011** and **2014**.
   
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/1aef855d-5c1c-499d-9d3f-d88dc0ccf77a)
 
-- The ship time directly correlates with the annual profit. Specifically, as ship times decreased, the profits grow higher.
+- The ship time directly correlates with the annual profit. Specifically - as shipping times decreased, profits grew higher.
 - The steady decrease in discounts from 2011 to 2013 may have had an impact on the 44 customers the store lost in 2014.
 -	By contacting the list of customers who left in 2014, we can gain more insight into their departure.
 
-For more information, please see the Jupyter notebook and XLSX spreadsheet included in this repository.  
+**For more information, please see the Jupyter notebook and Excel spreadsheet included in this repository.**
