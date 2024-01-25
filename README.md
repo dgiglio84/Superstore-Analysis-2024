@@ -18,7 +18,7 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 **Annual Profit Analysis**
 
--	The store saw increased growth with each year.
+-	The store had increased growth with each year.
 
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/fdddf457-a777-433b-bed5-8b7bbc2b1148)
 
@@ -33,12 +33,12 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/4a300d1c-afb4-4f58-8f86-011927c693da)
 
 -	10 states experienced a net loss. The state with the biggest loss was Texas with $25,729.44.
-  
-![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/58ee2bc4-e6b7-4996-8a77-5094492da54f)
+    
+![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/cc76f4e0-1b71-4d10-a7d6-9c0786f078f2)
 
 - Regionally, the West generates the most profit in the country. Conversely, the Central region generates the least amount.
 
-  ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/950c0fdd-0232-434d-8e80-cf699c617210)
+![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/950c0fdd-0232-434d-8e80-cf699c617210)
 
   
 
@@ -50,7 +50,7 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 -	The Cubify CubeX 3D Printer Double Head Print was the least profitable item, with a net loss of $8,879.97.
 
-![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/e02df8c4-a35d-4455-bb01-c13ba6134d6a)
+![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/6f420fbf-ccf0-46eb-a53f-24e4b5e3fcbf)
 
 -	A total 301 items (16%) resulted in a net loss.
   
@@ -82,7 +82,9 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 - With a significant net loss, removing the Cubify CubeX 3D Printer from the store's catalog would likely make a large impact on their overall profit.
 - By taking a closer look at the low profits in the Central region, we can determine that the biggest loss is in the furniture category:
-![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/1aef855d-5c1c-499d-9d3f-d88dc0ccf77a)  
+  
+![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/1aef855d-5c1c-499d-9d3f-d88dc0ccf77a)
+
 - The ship time directly correlates with the annual profit. In other words, the faster the ship time, the higher the profit.
 - The steady decrease in discounts from 2011 to 2013 may have had an impact on the 44 customers the store lost in 2014.
 -	By contacting the list of customers who left in 2014, we can gain more insight into their departure.
