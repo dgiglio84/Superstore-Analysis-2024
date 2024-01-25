@@ -60,14 +60,19 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 **Shipping Analysis**
 
 -	Shipping times saw a spike in 2012 but dropped significantly in the preceding years. 
--	The faster ship time seems to correlate with the annual profit.
 
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/ebda42e9-fa83-454d-b46e-5d2298ff3e9d)
 
 **Customer Gap Analysis** 
--	A total of 44 customers purchased items from 2011 to 2013, but not in 2014. 
--	Evaluating the customers who departed in 2014 can lead to more insight as to their exit. The screenshot below shows the customers in this list with the highest sales from 2011-2013.
+
+-	A total of 44 customers purchased items from 2011 to 2013, but not in 2014. The screenshot below shows those with the highest sales from 2011-2013.
   	
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/ec6b1b7b-bdc2-4b04-8194-d6098ba87d6a)
+
+**Conclusion**
+
+-	The ship time seems to correlate with the annual profi (the faster ship times, the higher the sales.)
+-	Evaluating the customers who departed in 2014 can lead to more insight as to their exit. 
+
 
 For more information, please see the Jupyter notebook included in this repository.  
