@@ -36,9 +36,11 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
   
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/58ee2bc4-e6b7-4996-8a77-5094492da54f)
 
-- Regionally, the West generates the most profits in the country (38%.)
+- Regionally, the West generates the most profit in the country. Conversely, the Central region generates the least amount.
 
   ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/950c0fdd-0232-434d-8e80-cf699c617210)
+
+  
 
 **Profitability by Item**
 
@@ -74,12 +76,13 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 -	A total of 44 customers purchased items from 2011 to 2013, but not in 2014. The screenshot below shows those with the highest sales from 2011-2013.
   	
-![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/ec6b1b7b-bdc2-4b04-8194-d6098ba87d6a)
+![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/ef0b42ac-e29e-4c42-9d31-a1391ffaf757)
 
 **Conclusion**
 
 - With a significant net loss, removing the Cubify CubeX 3D Printer from the store's catalog would likely make a large impact on their overall profit.
-- Likewise, Texas 
+- By taking a closer look at the low profits in the Central region, we can determine that the biggest loss is in the furniture category:
+![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/1aef855d-5c1c-499d-9d3f-d88dc0ccf77a)  
 - The ship time directly correlates with the annual profit. In other words, the faster the ship time, the higher the profit.
 - The steady decrease in discounts from 2011 to 2013 may have had an impact on the 44 customers the store lost in 2014.
 -	By contacting the list of customers who left in 2014, we can gain more insight into their departure.
