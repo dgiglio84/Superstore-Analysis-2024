@@ -18,11 +18,11 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 **Annual Profit Analysis**
 
--	The store saw gradual growth with each year.
+-	The store saw increased growth with each year.
 
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/fdddf457-a777-433b-bed5-8b7bbc2b1148)
 
--	Profits have steadily increased, but not at the same rate as sales.
+-	Profits steadily increased, but not at the same rate as sales.
   
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/b2ee384b-aee3-4c22-84d1-316463b99a64)
 
@@ -35,6 +35,10 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 -	10 states experienced a net loss. The state with the biggest loss was Texas with $25,729.44.
   
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/58ee2bc4-e6b7-4996-8a77-5094492da54f)
+
+- Regionally, the West generates the most profits in the country (38%.)
+
+  ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/950c0fdd-0232-434d-8e80-cf699c617210)
 
 **Profitability by Item**
 
