@@ -50,10 +50,9 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
   
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/737eee57-6bd7-4c66-9eb3-ae263306da53)
  
-
 **Discount Analysis**
 
--	Out of the 9994 total transactions, 52% were discounted.
+-	A discount was applied to 52% of all 9994 transactions.
 
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/b74bf827-3146-4dec-a371-76b969120db8)
 
@@ -75,9 +74,10 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 **Conclusion**
 
--	The ship time seems to correlate with the annual profit (the faster ship times, the higher the profit.)
--	By evaluating the list of customers who left in 2014, we can gain more insight into their departure.
--	Although a discount was applied to over half of the transactions, this did not seem to affect the annual profit.
-
+- With a significant net loss, removing the Cubify CubeX 3D Printer from the store's catalog would likely make a large impact on their overall profit.
+- Likewise, Texas 
+- The ship time directly correlates with the annual profit. In other words, the faster the ship time, the higher the profit.
+- The steady decrease in discounts from 2011 to 2013 may have had an impact on the 44 customers the store lost in 2014.
+-	By contacting the list of customers who left in 2014, we can gain more insight into their departure.
 
 For more information, please see the Jupyter notebook included in this repository.  
