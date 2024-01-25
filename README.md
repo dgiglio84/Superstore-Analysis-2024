@@ -2,7 +2,7 @@
 
 **Goal**
 
-To examine sales order data from a big-box store and develop conclusions based on various factors such as item profitability, geographical location, and customer loyalty.
+To examine sales order data from a big-box store and develop conclusions based on various factors such as item geographical location and customer loyalty.
 
 **Analysis Process**
 
@@ -57,6 +57,10 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 ![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/b74bf827-3146-4dec-a371-76b969120db8)
 
+- The average amount of discounts per year gradually dropped from 2011 to 2013, but increased in 2014.
+
+![image](https://github.com/dgiglio84/Superstore-Sales-Analysis/assets/120340086/5d5cc64c-da38-4637-8ac9-ea6a0c8a0ccb)
+
 **Shipping Analysis**
 
 -	Shipping times saw a spike in 2012 but dropped significantly in the preceding years. 
@@ -71,8 +75,9 @@ It contains 9994 rows of sales transactions between 2011 and 2014.
 
 **Conclusion**
 
--	The ship time seems to correlate with the annual profi (the faster ship times, the higher the sales.)
--	Evaluating the customers who departed in 2014 can lead to more insight as to their exit. 
+-	The ship time seems to correlate with the annual profit (the faster ship times, the higher the profit.)
+-	By evaluating the list of customers who left in 2014, we can gain more insight into their departure.
+-	Although a discount was applied to over half of the transactions, this did not seem to affect the annual profit.
 
 
 For more information, please see the Jupyter notebook included in this repository.  
